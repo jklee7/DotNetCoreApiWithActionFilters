@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreApiWithActionFilters", "DotNetCoreApiWithActionFilters\DotNetCoreApiWithActionFilters.csproj", "{4700ACE2-8C89-42C2-A445-28819ACD337E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4700ACE2-8C89-42C2-A445-28819ACD337E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4700ACE2-8C89-42C2-A445-28819ACD337E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4700ACE2-8C89-42C2-A445-28819ACD337E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4700ACE2-8C89-42C2-A445-28819ACD337E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {901639D5-A089-44FA-878C-A5D97590F3F4}
+	EndGlobalSection
+EndGlobal

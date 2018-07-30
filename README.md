@@ -33,8 +33,6 @@ curl --header "key: 123" https://localhost:5001/api/v1/message
 #### Useful References
 
 - [Filters in ASP.NET Core][1]
-- [In-memory provider and binding to a POCO class][2]
 
 
 [1]: https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-2.1
-[2]: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&tabs=basicconfiguration#in-memory-provider-and-binding-to-a-poco-class
